@@ -4,3 +4,5 @@ Generate iOS plist file from ipa file
 
 # 使用环境
 该脚本仅在python3.X下运行，如果想要在python2.X环境下运行的同学可以把其中的plistlib替换为第三方的biplist
+
+唔，另外Copyright好像用成了cold的。。。T_T!
