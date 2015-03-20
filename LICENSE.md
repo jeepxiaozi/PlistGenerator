@@ -1,1 +1,0 @@
-使用python脚本生成iOS分发应用所需的plist文件
